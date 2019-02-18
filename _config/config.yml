@@ -1,0 +1,7 @@
+---
+Name: fromholdio-csshelpers
+---
+
+SilverStripe\CMS\Model\SiteTree:
+  extensions:
+    - Fromholdio\CSSHelpers\Extensions\CSSHelpersExtension
